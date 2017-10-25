@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DEB317C2-E7C2-4B7B-9B17-34B6EB945169}</ProjectGuid>
+    <ProjectGuid>{754C9981-1097-414A-9D96-61D0B6D0EBA6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_02_graded_assignment</RootNamespace>
-    <AssemblyName>02-graded-assignment</AssemblyName>
+    <RootNamespace>_05_DiceRoll</RootNamespace>
+    <AssemblyName>05-DiceRoll</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
