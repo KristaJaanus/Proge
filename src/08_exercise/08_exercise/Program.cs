@@ -10,7 +10,9 @@ namespace _08_exercise
     {
         static void Main(string[] args)
         {
-            string[] excuses = new[] { "Koer sõi kodutöö ära", "Ema ei luba arvutit kasutada" };
+            string[] excuses = new[] { "Koer sõi kodutöö ära", "Ema ei luba arvutit kasutada" }; ()
+
+            foreach ()
             for (int i = 0; i < excuses.Length; i++)
             {
                 Console.WriteLine($"{i + 1}.{excuses[i]}");
